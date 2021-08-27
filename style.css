@@ -91,3 +91,7 @@ html {
 .social-media a {
 	color: rgb(83, 63, 40);
 }
+
+.card-wrapper {
+	padding-top: 80px;
+}
